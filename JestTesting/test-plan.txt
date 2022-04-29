@@ -1,0 +1,13 @@
+High level tests:
+    -confirm that the user can submit new wanted cases
+    -confirm that the user can edit already existing wanted cases.
+
+low level tests:
+    -When entering information on the Enter Wanted page, confirm that 
+    dropdown lists and Date entries are working correctly.
+    -confirm that the hamburger button is working correctly and the
+    menu options within it take you to the right page.
+
+smoke/sanity test:
+    -run through the process of adding a new wanted criminal and confirm
+    that you are able to edit the new warrent and/or delete it.
